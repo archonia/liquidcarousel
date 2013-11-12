@@ -1,0 +1,15 @@
+{
+    "name": "components/jquery-liquidcarousel",
+    "description": "jQuery Liquid Carousel plugin",
+    "type": "component",
+    "homepage": "http://www.nikolakis.net/liquidcarousel/",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "John Nikolakis"
+        }
+    ],
+    "require": {
+        "components/jquery": ">=1.4.2"
+    }
+}
