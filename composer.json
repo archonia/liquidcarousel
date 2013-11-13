@@ -11,5 +11,18 @@
     ],
     "require": {
         "components/jquery": ">=1.4.2"
+    },
+    "extra": {
+        "component": {
+            "name": "liquidcarousel",
+            "files": [
+                "css/liquidcarousel.css",
+                "images/bodybackground.png",
+                "images/next.png",
+                "images/previous.png",
+                "js/jquery.liquidcarousel.js",
+                "js/jquery.liquidcarousel.min.js"
+            ]
+        }
     }
 }
