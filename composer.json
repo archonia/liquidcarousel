@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "components/jquery": ">=1.4.2"
+        "components/jquery": ">=1.4.2",
+        "robloach/component-installer": "0.0.*"
     },
     "extra": {
         "component": {
